@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+pymysql
+langchain
+chromadb
+google-genai
+scikit-learn
+PyPDF2
+fastapi
+uvicorn[standard]
